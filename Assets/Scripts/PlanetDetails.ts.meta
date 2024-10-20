@@ -24,13 +24,13 @@
   CurrentVisibility: Editable
   MaxVisibility: Editable
   ScriptInputsHidden:
-    interactable: false
+    planetNameText: false
   ScriptTypesHidden:
     {}
   DefaultScriptInputs:
-    - interactable: !<MappingBased.Interactable> 00000000-0000-0000-0000-000000000000
+    - planetNameText: !<reference.Text3D> 00000000-0000-0000-0000-000000000000
   ScriptTypes:
     -
       {}
   InputLines:
-    []
+    - // @input Component.Text3D planetNameText

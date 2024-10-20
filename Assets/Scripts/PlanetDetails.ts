@@ -4,7 +4,13 @@ import { SIK } from "SpectaclesInteractionKit/SIK";
 @component
 export class PlanetDetails extends BaseScriptComponent {
 
+
+    @input()
+    planetNameText: Text3D
+
+
     onAwake() {
+        this.planetNameText.enabled = false;
         this.createEvent('OnStartEvent').bind(() => {
             this.onStart();
         })
@@ -25,5 +31,14 @@ export class PlanetDetails extends BaseScriptComponent {
         interactable.onTriggerEnd((interactorEvent) => {
             print(`OnTriggerEnd executed on object: ${this.sceneObject.name}`);
         })
+
+        interactable.onHoverEnter(() => {
+            this.planetNameText.enabled = true;
+            this.planetNameText.text = `${this.sceneObject.name}`;
+        })
+
+        interactable.onHoverExit(() => {
+            this.planetNameText.enabled = false;
+        })        
     }
 }

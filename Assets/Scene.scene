@@ -1249,6 +1249,7 @@
     - !<own> 94862904-db61-420a-a88e-a5fae68c1894
     - !<own> c50385b3-ebb9-4621-9125-70194dfd5090
     - !<own> 4eccfc9e-8c12-4365-a467-b2000e606f82
+    - !<own> 4f93394f-b7f5-45f4-a508-00393cf53d5c
 - !<SceneObject/1a151021-44e9-4f26-9581-e22af688eac9>
   PrefabRemaps:
     []
@@ -1754,6 +1755,7 @@
     - !<own> 9b97428e-7f64-4484-baa9-ec4e747826ac
     - !<own> 2620435a-7702-4b1f-8ac9-d92ae61d6cdf
     - !<own> 9388bc23-6083-414d-9d82-6dfe7b020974
+    - !<own> 336dfc9d-8468-499e-a3b5-735917e8ddbe
 - !<SceneObject/22eb92ab-16fa-4d93-8b2e-a2c33f887f69>
   PrefabRemaps:
     []
@@ -2681,6 +2683,38 @@
     LetterSpacing: 0.000000
     LineSpacing: 1.000000
     CapitalizationOverride: None
+- !<ScriptComponent/32148727-6c5e-4a34-bbd7-b555c6cd4ce3>
+  PrefabRemaps:
+    []
+  Name: PlanetDetails
+  Enabled: true
+  ScriptAsset: !<reference> 0f754583-a6e5-4686-9311-64639a52b021
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      planetNameText: !<reference.Text3D> ec97cda6-db0a-455b-89f8-12658e7b4e69
+  ScriptTypes:
+    "":
+      {}
+- !<ScriptComponent/336dfc9d-8468-499e-a3b5-735917e8ddbe>
+  PrefabRemaps:
+    []
+  Name: PlanetDetails
+  Enabled: true
+  ScriptAsset: !<reference> 0f754583-a6e5-4686-9311-64639a52b021
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      planetNameText: !<reference.Text3D> d43703bd-b400-4d86-8be6-6bf633eca969
+  ScriptTypes:
+    "":
+      {}
 - !<ScriptComponent/33735641-6061-4c01-a86c-362dca42fe6d>
   PrefabRemaps:
     []
@@ -3391,6 +3425,22 @@
   ForceCompound: false
   Intangible: false
   ShowCollider: true
+- !<ScriptComponent/45081dd2-c08d-4354-aafe-ca0a8250be1a>
+  PrefabRemaps:
+    []
+  Name: PlanetDetails
+  Enabled: true
+  ScriptAsset: !<reference> 0f754583-a6e5-4686-9311-64639a52b021
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      planetNameText: !<reference.Text3D> bea97068-e85e-4eac-907f-4be13262a9e3
+  ScriptTypes:
+    "":
+      {}
 - !<ColliderComponent/4554a398-750b-46ca-bee6-de662ecde352>
   PrefabRemaps:
     []
@@ -3440,6 +3490,22 @@
   Components:
     - !<own> f0b156d5-a045-452b-b09c-e64aece75d70
     - !<own> 1d168d8c-09fd-45fb-b6cb-480dc41f59f3
+- !<ScriptComponent/46d61126-edb6-4833-aa40-9dfef4cc3f6e>
+  PrefabRemaps:
+    []
+  Name: PlanetDetails
+  Enabled: true
+  ScriptAsset: !<reference> 0f754583-a6e5-4686-9311-64639a52b021
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      planetNameText: !<reference.Text3D> 2ce86991-cbea-4380-a5da-250f79faa5f9
+  ScriptTypes:
+    "":
+      {}
 - !<SceneObject/46fb9aaa-d258-485c-beef-6b7e662ea317>
   PrefabRemaps:
     []
@@ -3923,6 +3989,22 @@
     - !<own> d6f9e456-6439-4e28-a0c1-0471e55fd251
   Components:
     []
+- !<ScriptComponent/4f93394f-b7f5-45f4-a508-00393cf53d5c>
+  PrefabRemaps:
+    []
+  Name: PlanetDetails
+  Enabled: true
+  ScriptAsset: !<reference> 0f754583-a6e5-4686-9311-64639a52b021
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      planetNameText: !<reference.Text3D> bf3c6c52-7630-4e11-93e6-0d5134de2fd8
+  ScriptTypes:
+    "":
+      {}
 - !<ScriptComponent/4fed6696-b9cb-42f5-b873-ffbec75de38d>
   PrefabRemaps:
     []
@@ -5081,6 +5163,22 @@
     bottom: 0.000000
     right: 0.000000
     top: 0.000000
+- !<ScriptComponent/638c041e-be7e-4634-b816-a4f8488eff4b>
+  PrefabRemaps:
+    []
+  Name: PlanetDetails
+  Enabled: true
+  ScriptAsset: !<reference> 0f754583-a6e5-4686-9311-64639a52b021
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      planetNameText: !<reference.Text3D> 1764a352-e07f-4fab-8869-88b811ab6c42
+  ScriptTypes:
+    "":
+      {}
 - !<SceneObject/63c4924c-a85b-4430-a2df-b369136f2b16>
   PrefabRemaps:
     []
@@ -5116,6 +5214,7 @@
     - !<own> c0a70586-6acc-4e82-b617-096eaa2c6a27
     - !<own> a3e127de-f888-4b8b-bc09-c104f525c688
     - !<own> e61c62f0-75f3-4768-9c6b-8d8c1f0d9ae7
+    - !<own> c17d72e5-1c97-4298-a0ae-267f4fe4649a
 - !<ScriptComponent/64a09b51-f910-470b-90da-0210d1f9b918>
   PrefabRemaps:
     []
@@ -5628,6 +5727,7 @@
     - !<own> 8ac522aa-f47d-43b4-b916-e327adf1eabc
     - !<own> b80dbf3a-2e42-4372-92e0-bd2bbecf553b
     - !<own> a123fbbb-b150-4102-b79d-9548b73d81b6
+    - !<own> 32148727-6c5e-4a34-bbd7-b555c6cd4ce3
 - !<SceneObject/6f8ab5ad-1d1b-4354-b3eb-daa264fb4195>
   PrefabRemaps:
     []
@@ -5648,6 +5748,7 @@
     - !<own> b784fc86-e81b-441b-93e3-669afcca3b8f
     - !<own> be3d53c4-e2a9-4131-8f6f-03104c62203e
     - !<own> e67354f8-5bd2-4aeb-b730-54e1496cff24
+    - !<own> 46d61126-edb6-4833-aa40-9dfef4cc3f6e
 - !<SceneObject/6f9260d3-d992-40c7-89de-80d036888b13>
   PrefabRemaps:
     []
@@ -6951,6 +7052,7 @@
     - !<own> 3627376d-97b9-4dde-9e33-e5da0d28bca0
     - !<own> 9eb07572-f2be-45fc-9c39-bf9762ae9b00
     - !<own> 25f81ac3-5c88-4a2e-a016-27c3b7377f09
+    - !<own> 638c041e-be7e-4634-b816-a4f8488eff4b
 - !<SceneObject/8dbfaad1-3c20-46cf-9704-682f8df0c1ac>
   PrefabRemaps:
     []
@@ -7377,6 +7479,7 @@
     - !<own> 39cb1950-793b-4b96-8fa4-49de11847a80
     - !<own> 05375aa5-8de9-4b6f-9e7e-125aedbca13b
     - !<own> 1c44927e-e2d3-4a5b-bd66-bb393f1a6a74
+    - !<own> ef0006dc-6439-4816-9f52-19e963e22069
 - !<BodyComponent/98611aa7-eb8f-4270-a632-baff8bad7166>
   PrefabRemaps:
     []
@@ -8174,6 +8277,7 @@
     - !<own> 0c8f9edc-c782-4dc3-a102-99879f9c2237
     - !<own> e4dd3874-be51-49da-9ed3-07f73f2375c8
     - !<own> 290705dc-126c-4252-a48b-f30a50c9e6c7
+    - !<own> e89b9c25-f489-47c9-9cdf-57c77c73f043
 - !<SceneObject/b05a07c1-cae6-496c-adee-affec6f8baaf>
   PrefabRemaps:
     []
@@ -8895,6 +8999,7 @@
     - !<own> 4b0ad203-a3d1-465c-85ff-626a60fbfcbe
     - !<own> e0e8315f-aca8-440d-bc4e-07452ebd5835
     - !<own> 4fed6696-b9cb-42f5-b873-ffbec75de38d
+    - !<own> df0033e6-e7e0-40f3-96a2-5c38cbed1809
 - !<ScriptComponent/c008992d-99eb-45d6-b9b5-22e9d24cec4b>
   PrefabRemaps:
     []
@@ -8957,6 +9062,22 @@
       targetingMode: !<float> 3.000000
       enableInstantDrag: false
       allowMultipleInteractors: true
+  ScriptTypes:
+    "":
+      {}
+- !<ScriptComponent/c17d72e5-1c97-4298-a0ae-267f4fe4649a>
+  PrefabRemaps:
+    []
+  Name: PlanetDetails
+  Enabled: true
+  ScriptAsset: !<reference> 0f754583-a6e5-4686-9311-64639a52b021
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      planetNameText: !<reference.Text3D> d2d810b9-efd7-44a7-bf81-81e9c1cf5adf
   ScriptTypes:
     "":
       {}
@@ -9308,6 +9429,7 @@
     - !<own> 799d1318-4cb7-4d8c-a4d6-10b8fc8136ac
     - !<own> 301c99c8-93ef-48a6-a1d7-f579dbd325e1
     - !<own> 79232333-13c9-46d0-97fe-82672e6584c6
+    - !<own> 45081dd2-c08d-4354-aafe-ca0a8250be1a
 - !<ScreenTransform/c8e98760-769e-498b-bd72-b9e23734bd36>
   PrefabRemaps:
     []
@@ -10072,6 +10194,22 @@
       receiverLayers: 1
     Material: !<reference> 00000000-0000-0000-0000-000000000000
     HideFromCamera: false
+- !<ScriptComponent/df0033e6-e7e0-40f3-96a2-5c38cbed1809>
+  PrefabRemaps:
+    []
+  Name: PlanetDetails
+  Enabled: true
+  ScriptAsset: !<reference> 0f754583-a6e5-4686-9311-64639a52b021
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      planetNameText: !<reference.Text3D> 7331049e-a906-481c-bfd1-9e7b3ba19cd9
+  ScriptTypes:
+    "":
+      {}
 - !<ColliderComponent/df2324cb-affd-47a2-b8e9-849558c9b9d4>
   PrefabRemaps:
     []
@@ -10684,6 +10822,22 @@
   ScriptTypes:
     "":
       {}
+- !<ScriptComponent/e89b9c25-f489-47c9-9cdf-57c77c73f043>
+  PrefabRemaps:
+    []
+  Name: PlanetDetails
+  Enabled: true
+  ScriptAsset: !<reference> 0f754583-a6e5-4686-9311-64639a52b021
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      planetNameText: !<reference.Text3D> 36433aaf-b1f2-4f5d-88de-cb913c6e969e
+  ScriptTypes:
+    "":
+      {}
 - !<ScriptComponent/e8e77f57-4004-4bb3-bfe9-9afb428c9569>
   PrefabRemaps:
     []
@@ -11120,6 +11274,22 @@
   BlendNormals: false
   BlendShapes:
     {}
+- !<ScriptComponent/ef0006dc-6439-4816-9f52-19e963e22069>
+  PrefabRemaps:
+    []
+  Name: PlanetDetails
+  Enabled: true
+  ScriptAsset: !<reference> 0f754583-a6e5-4686-9311-64639a52b021
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      planetNameText: !<reference.Text3D> 31b73613-f33f-4a84-9852-0b584071abe3
+  ScriptTypes:
+    "":
+      {}
 - !<SceneObject/efa5291d-c6f8-4527-85f3-4ca4fd596089>
   PrefabRemaps:
     []

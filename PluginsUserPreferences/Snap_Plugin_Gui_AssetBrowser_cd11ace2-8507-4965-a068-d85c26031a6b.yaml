@@ -1,7 +1,7 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 544
+    size: 545
     values:
       - Device Camera Texture.deviceCameraTexture
       - Echopark.hdr
@@ -144,6 +144,7 @@ CollapsedEntities:
       - Racket With Yellow Ball/Resources/tocket.fbx/tocket
       - Render Target.renderTarget
       - Scene.scene
+      - Scripts/PlanetDetails.ts
       - Solar System Pack/.hidden
       - Solar System Pack/.hidden/Earth Material.ss_graph
       - Solar System Pack/.hidden/Saturn Rings Material.ss_graph
