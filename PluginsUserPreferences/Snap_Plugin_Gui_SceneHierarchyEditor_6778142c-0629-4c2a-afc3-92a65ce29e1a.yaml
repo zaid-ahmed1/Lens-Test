@@ -1,20 +1,27 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 14
+    size: 16
     values:
       - 068db7d5-975f-4e5b-9af3-c88138aa6c76
-      - 211d5012-de71-4306-9fa5-eb15975f25ef
+      - 11f4600d-3d7f-4798-baf2-1c279588e051
+      - 17e077f4-a6ba-4877-a1b3-fd78dd1d2e1b
+      - 1fabd65e-b3f4-4f42-b2c4-ad14c8fe6b73
+      - 24299daf-308b-4009-86a0-4d51563c82b4
+      - 2c60756c-4bb7-49b5-bd5e-0423fd3b232f
       - 4adc6f4b-f46e-4f48-a735-bb281e158496
       - 5dc2c882-655c-4e06-9e64-e7099c3f7b6e
-      - 63eda9c5-45d3-45a1-8dd7-5013d48eb2a0
-      - 6ed689b7-5235-4d76-923b-dce09d37b8ad
-      - 8d881a7e-bfba-4a23-a64b-92db4dd9a7db
-      - 98195bf5-58bd-4fb7-b698-990af876af40
+      - 66ecff9b-2a11-4f67-8567-492919750fdf
+      - 706a6cff-0030-4a01-b2d9-33a1462d6340
+      - 8881908e-dd08-4fb2-b66a-02e5e76de732
       - a76b3abc-c7a8-4e23-a5b7-7795c09d5b4a
-      - af7f3c31-30cc-4870-945a-e423e8c1cb24
-      - bf5912d1-2a50-4183-831d-33cae80767c0
-      - c8ade2d0-f298-495f-93b1-bd48dc2acb60
+      - c4c7898f-73bc-4bf5-b8d5-b6cf3093d12a
       - ccfcd7b3-7092-44cb-a951-e8f477545426
       - d95bd87d-44bf-43aa-b527-3ac5773d8c5f
+      - e2ccef74-9745-408e-999f-0742bad180e0
+  options: 4
+PinnedEntities:
+  type: "std::vector<class Es::Uuid,class std::allocator<class Es::Uuid> >"
+  value:
+    size: 0
   options: 4
