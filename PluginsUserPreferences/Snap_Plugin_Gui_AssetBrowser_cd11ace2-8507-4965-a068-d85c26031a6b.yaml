@@ -1,14 +1,224 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 330
+    size: 541
     values:
       - Device Camera Texture.deviceCameraTexture
       - Echopark.hdr
       - Echopark.hdr/Diffuse
       - Echopark.hdr/Specular
+      - Home Pack
+      - Home Pack/.hidden
+      - Home Pack/.hidden/bin.ss_graph
+      - Home Pack/Bitmoji Home Pack Resources
+      - Home Pack/Bitmoji Home Pack Resources/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/bin
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/bin/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/bin/Material/bin.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/bin/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/bin/Meshes/C_bin_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/bin/Meshes/C_lid_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/chair
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/chair/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/chair/Material/chair.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/chair/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/chair/Meshes/Box001.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/cooking_table
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/cooking_table/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/cooking_table/Material/cooking_table.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/cooking_table/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/cooking_table/Meshes/Labtable.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/countertop_empty
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/countertop_empty/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/countertop_empty/Material/countertop_empty.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/countertop_empty/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/countertop_empty/Meshes/C_countertop_empty_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/desk
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/desk/Materials
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/desk/Materials/desk_MAT.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/desk/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/desk/Meshes/C_desk_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/desk/Meshes/L_drawer1_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/desk/Meshes/L_drawer2_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/desk/Meshes/L_drawer3_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/desk/Meshes/R_drawer4_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/desk/Meshes/R_drawer5_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/desk/Meshes/R_drawer6_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/ketchup_table
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/ketchup_table/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/ketchup_table/Material/ketchup_table.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/ketchup_table/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/ketchup_table/Meshes/C_ketchupTable_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/nightstand
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/nightstand/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/nightstand/Material/nightstand.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/nightstand/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/nightstand/Meshes/C_drawer_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/nightstand/Meshes/C_nightstand_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/picture_frame
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/picture_frame/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/picture_frame/Material/picture_frame.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/picture_frame/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/picture_frame/Meshes/C_frame_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/picture_frame/Meshes/C_picture_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/sofa
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/sofa/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/sofa/Material/sofa.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/sofa/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/sofa/Meshes/C_sofa_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/stool
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/stool/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/stool/Material/stool.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/stool/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/stool/Meshes/C_stool_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/stool_wooden
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/stool_wooden/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/stool_wooden/Material/stool_wooden.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/stool_wooden/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/stool_wooden/Meshes/C_stool_wooden_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table/Material/labtable.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table/Meshes/C_Labtable_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_dining
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_dining/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_dining/Material/table_dining.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_dining/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_dining/Meshes/C_Labtable_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_medium
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_medium/Materials
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_medium/Materials/table_medium.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_medium/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_medium/Meshes/C_table_cloth_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_medium/Meshes/C_table_top_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_medium/Meshes/table_leg1_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_medium/Meshes/table_leg2_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_medium/Meshes/table_leg3_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_medium/Meshes/table_leg4_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Textures
+      - Home Pack/Bitmoji Home Pack Resources/Textures/bin_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/chair_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/cooking_table_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/countertop_empty_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/desk_prop_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/ketchup_table_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/nightstand_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/picture_frame_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/sofa_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/stool_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/stool_wooden_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/table_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/table_dining_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/table_medium_color.png
+      - Home Pack/BitmojiHome__PLACE_IN_OBJECTS_PANEL.prefab
+      - Racket With Yellow Ball
+      - Racket With Yellow Ball/Racket And Ball__ADD_TO_SCENE.prefab
+      - Racket With Yellow Ball/Resources
+      - Racket With Yellow Ball/Resources/pingpong.fbx
+      - Racket With Yellow Ball/Resources/pingpong.fbx/.hidden
+      - Racket With Yellow Ball/Resources/pingpong.fbx/.hidden/ball orange
+      - Racket With Yellow Ball/Resources/pingpong.fbx/.hidden/white
+      - Racket With Yellow Ball/Resources/pingpong.fbx/Materials
+      - Racket With Yellow Ball/Resources/pingpong.fbx/Materials/ball orange
+      - Racket With Yellow Ball/Resources/pingpong.fbx/Meshes
+      - Racket With Yellow Ball/Resources/pingpong.fbx/Meshes/ball1
+      - Racket With Yellow Ball/Resources/pingpong.fbx/Textures
+      - Racket With Yellow Ball/Resources/pingpong.fbx/Textures/table tennis ball 256x256 orange
+      - Racket With Yellow Ball/Resources/pingpong.fbx/pingpong
+      - Racket With Yellow Ball/Resources/table-tennis-assets-free
+      - Racket With Yellow Ball/Resources/table-tennis-assets-free/source
+      - Racket With Yellow Ball/Resources/table-tennis-assets-free/source/table tennis assets
+      - Racket With Yellow Ball/Resources/table-tennis-assets-free/source/table tennis assets/table tennis assets
+      - Racket With Yellow Ball/Resources/tocket.fbx
+      - Racket With Yellow Ball/Resources/tocket.fbx/.hidden
+      - Racket With Yellow Ball/Resources/tocket.fbx/.hidden/bat
+      - Racket With Yellow Ball/Resources/tocket.fbx/.hidden/white
+      - Racket With Yellow Ball/Resources/tocket.fbx/Materials
+      - Racket With Yellow Ball/Resources/tocket.fbx/Materials/bat
+      - Racket With Yellow Ball/Resources/tocket.fbx/Meshes
+      - Racket With Yellow Ball/Resources/tocket.fbx/Meshes/bat1
+      - Racket With Yellow Ball/Resources/tocket.fbx/Textures
+      - Racket With Yellow Ball/Resources/tocket.fbx/Textures/bat 1024x1024 color
+      - Racket With Yellow Ball/Resources/tocket.fbx/Textures/bat 1024x1024 normal
+      - Racket With Yellow Ball/Resources/tocket.fbx/tocket
       - Render Target.renderTarget
       - Scene.scene
+      - Solar System Pack/.hidden
+      - Solar System Pack/.hidden/Earth Material.ss_graph
+      - Solar System Pack/.hidden/Saturn Rings Material.ss_graph
+      - Solar System Pack/Solar System Pack Resources
+      - Solar System Pack/Solar System Pack Resources/Materials
+      - Solar System Pack/Solar System Pack Resources/Materials/Earth Material.mat
+      - Solar System Pack/Solar System Pack Resources/Materials/Jupiter Material.mat
+      - Solar System Pack/Solar System Pack Resources/Materials/Mars Material.mat
+      - Solar System Pack/Solar System Pack Resources/Materials/Mercury Material.mat
+      - Solar System Pack/Solar System Pack Resources/Materials/Moon Material.mat
+      - Solar System Pack/Solar System Pack Resources/Materials/Neptune Material.mat
+      - Solar System Pack/Solar System Pack Resources/Materials/Saturn Rings Material.mat
+      - Solar System Pack/Solar System Pack Resources/Materials/Saturon Material.mat
+      - Solar System Pack/Solar System Pack Resources/Materials/Sun Material.mat
+      - Solar System Pack/Solar System Pack Resources/Materials/Uranos Rings Material.mat
+      - Solar System Pack/Solar System Pack Resources/Materials/Uranus Material.mat
+      - Solar System Pack/Solar System Pack Resources/Materials/Venus Material.mat
+      - Solar System Pack/Solar System Pack Resources/Solar_System_Pack
+      - Solar System Pack/Solar System Pack Resources/Solar_System_Pack/Meshes
+      - Solar System Pack/Solar System Pack Resources/Solar_System_Pack/Meshes/Mesh 10.mesh
+      - Solar System Pack/Solar System Pack Resources/Solar_System_Pack/Meshes/Mesh 2.mesh
+      - Solar System Pack/Solar System Pack Resources/Solar_System_Pack/Meshes/Mesh 3.mesh
+      - Solar System Pack/Solar System Pack Resources/Solar_System_Pack/Meshes/Mesh 4.mesh
+      - Solar System Pack/Solar System Pack Resources/Solar_System_Pack/Meshes/Mesh 5.mesh
+      - Solar System Pack/Solar System Pack Resources/Solar_System_Pack/Meshes/Mesh 6.mesh
+      - Solar System Pack/Solar System Pack Resources/Solar_System_Pack/Meshes/Mesh 7.mesh
+      - Solar System Pack/Solar System Pack Resources/Solar_System_Pack/Meshes/Mesh 8.mesh
+      - Solar System Pack/Solar System Pack Resources/Solar_System_Pack/Meshes/Mesh 9.mesh
+      - Solar System Pack/Solar System Pack Resources/Solar_System_Pack/Meshes/Mesh.mesh
+      - Solar System Pack/Solar System Pack Resources/Solar_System_Pack/Meshes/Sphere 2.mesh
+      - Solar System Pack/Solar System Pack Resources/Solar_System_Pack/Meshes/Sphere.mesh
+      - Solar System Pack/Solar System Pack Resources/Textures
+      - Solar System Pack/Solar System Pack Resources/Textures/Earth
+      - Solar System Pack/Solar System Pack Resources/Textures/Earth/Earth_Params.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Earth/Earth_base.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Earth/Earth_normal.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Jupiter
+      - Solar System Pack/Solar System Pack Resources/Textures/Jupiter/Jupiter_Params.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Jupiter/Jupiter_base.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Jupiter/Jupiter_normal.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Mars
+      - Solar System Pack/Solar System Pack Resources/Textures/Mars/Mars_Params.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Mars/Mars_base.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Mars/Mars_normal.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Mercury
+      - Solar System Pack/Solar System Pack Resources/Textures/Mercury/Mercury_Params.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Mercury/Mercury_base.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Mercury/Mercury_normal.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Moon
+      - Solar System Pack/Solar System Pack Resources/Textures/Moon/Moon_Params.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Moon/Moon_base.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Moon/Moon_normal.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Neptune
+      - Solar System Pack/Solar System Pack Resources/Textures/Neptune/Neptune_Params.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Neptune/Neptune_base.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Neptune/Neptune_normal.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Saturon
+      - Solar System Pack/Solar System Pack Resources/Textures/Saturon/Saturn_Ring_base.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Saturon/Saturn_base.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Saturon/Saturn_normal.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Saturon/Saturon_Params.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Sun
+      - Solar System Pack/Solar System Pack Resources/Textures/Sun/Sun_Params.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Sun/Sun_base.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Sun/Sun_normal.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Uranus
+      - Solar System Pack/Solar System Pack Resources/Textures/Uranus/Uranus_Params.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Uranus/Uranus_Ring_base.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Uranus/Uranus_base.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Uranus/Uranus_normal.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Venus
+      - Solar System Pack/Solar System Pack Resources/Textures/Venus/Venus_Params.png
+      - Solar System Pack/Solar System Pack Resources/Textures/Venus/Venus_base.png
+      - Solar System Pack/Solar_System_Pack__PLACE_IN_OBJECTS_PANEL.prefab
+      - SpectaclesInteractionKit
       - SpectaclesInteractionKit/Assets
       - SpectaclesInteractionKit/Assets/Audio
       - SpectaclesInteractionKit/Assets/Audio/HoverAudioTrack.wav
@@ -91,6 +301,7 @@ CollapsedEntities:
       - SpectaclesInteractionKit/Assets/Textures/SIKContainerExampleImage.jpg
       - SpectaclesInteractionKit/Assets/Textures/SIKLogo.png
       - SpectaclesInteractionKit/Assets/Textures/ScrollBarRectangle.png
+      - SpectaclesInteractionKit/Components
       - SpectaclesInteractionKit/Components/Helpers
       - SpectaclesInteractionKit/Components/Helpers/CapsuleMeshCustomizer.ts
       - SpectaclesInteractionKit/Components/Helpers/InteractableAudioFeedback.ts

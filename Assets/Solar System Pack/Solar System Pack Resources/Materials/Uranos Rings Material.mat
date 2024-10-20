@@ -1,0 +1,80 @@
+- !<Material/aac02067-7659-419f-8d8e-2560459dad2c>
+  PackagePath: ""
+  PassesInfo:
+    - !<own> 3a4f1a02-0897-4588-bd4a-d352177f0e91
+- !<PassInfo/3a4f1a02-0897-4588-bd4a-d352177f0e91>
+  DepthWrite: true
+  DepthTest: true
+  DepthFunction: LessEqual
+  TwoSided: true
+  ColorMask: {x: true, y: true, z: true, w: true}
+  CullMode: Back
+  PolygonOffset: {x: 0.000000, y: 0.000000}
+  FrustumCulling: Auto
+  FrustumCullPad: 0.000000
+  InstanceCount: 1
+  Defines:
+    - ENABLE_BASE_TEX
+    - ENABLE_EMISSIVE
+    - ENABLE_GLTF_LIGHTING
+    - NODE_10_DROPLIST_ITEM 0
+    - NODE_11_DROPLIST_ITEM 0
+    - NODE_30_DROPLIST_ITEM 0
+    - NODE_32_DROPLIST_ITEM 0
+    - NODE_37_DROPLIST_ITEM 0
+    - NODE_44_DROPLIST_ITEM 0
+    - NODE_47_DROPLIST_ITEM 0
+    - NODE_60_DROPLIST_ITEM 0
+    - NODE_7_DROPLIST_ITEM 0
+    - NODE_8_DROPLIST_ITEM 0
+    - Tweak_N30 0
+    - Tweak_N32 0
+    - Tweak_N37 0
+    - Tweak_N44 0
+    - Tweak_N47 0
+    - Tweak_N60 0
+  BlendMode: PremultipliedAlphaAuto
+  Properties:
+    Port_SpecularAO_N036:
+      typeIdx: 4
+      value: {x: 1.000000, y: 1.000000, z: 1.000000}
+    PreviewEnabled:
+      typeIdx: 0
+      value: 0
+    baseColorFactor:
+      typeIdx: 5
+      value: {x: 0.666667, y: 1.000000, z: 1.000000, w: 1.000000}
+    baseColorTexture:
+      typeIdx: 9
+      value:
+        id: 00031793-fb9d-4641-928d-3f592d6b0aed
+        sampler:
+          filteringMode: Trilinear
+          wrapModeU: Repeat
+          wrapModeV: Repeat
+          wrapModeW: Repeat
+          borderColor: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+          mipmaps: true
+        type: Texture2D
+    emissiveFactor:
+      typeIdx: 4
+      value: {x: 0.666667, y: 1.000000, z: 1.000000}
+    emissiveTexture:
+      typeIdx: 9
+      value:
+        id: 00031793-fb9d-4641-928d-3f592d6b0aed
+        sampler:
+          filteringMode: Trilinear
+          wrapModeU: Repeat
+          wrapModeV: Repeat
+          wrapModeW: Repeat
+          borderColor: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+          mipmaps: false
+        type: Texture2D
+    metallicFactor:
+      typeIdx: 1
+      value: 1.000000
+    roughnessFactor:
+      typeIdx: 1
+      value: 0.000000
+  Pass: !<reference> 88d2c674-e12f-4f2b-ba1d-2e67093479c5
